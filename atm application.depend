@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649938839 source:d:\c\first\atm application\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
